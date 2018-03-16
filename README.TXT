@@ -1,5 +1,5 @@
-Project: auction
-Authors: David J. Barnes and Michael Kölling
+Project: Subasta
+Authors: Fabio Geney
 
 This project is part of the supplementary material for
 chapter 4 of the book
